@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = "x86"
+app = "../cucumber_android/builds/azhelps-2.apk"

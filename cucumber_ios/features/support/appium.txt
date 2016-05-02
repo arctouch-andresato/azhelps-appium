@@ -1,0 +1,6 @@
+[caps]
+platformName = "ios"
+deviceName = "iPhone 6"
+platformVersion = "8.1"
+# app = "../cucumber_ios/builds/AstraZeneca-iOS-Device-ArcTouch-Debug-Appium.ipa"
+app = "../cucumber_ios/builds/AZHelps.app"

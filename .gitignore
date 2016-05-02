@@ -9,6 +9,9 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/cucumber/builds/
+/cucumber_ios/builds/
+/cucumber_android/builds/
 
 ## Specific to RubyMotion:
 .dat*
